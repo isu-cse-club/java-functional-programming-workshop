@@ -1,10 +1,8 @@
 package com.functional_groceries.pos;
 
-import com.functional_groceries.pos.entity.CartItem;
 
 import java.util.*;
 import java.util.function.Function;
-import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 public class SelfCheckout {
